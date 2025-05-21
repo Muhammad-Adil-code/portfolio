@@ -69,7 +69,7 @@ This is a modern, responsive portfolio website built with **React**, **TypeScrip
 ---
 
 ## 📁 Project Structure
-
+``` 
 src/
 ├── components/ # Reusable UI components
 ├── sections/ # Main page sections
@@ -77,7 +77,7 @@ src/
 ├── utils/ # Helper functions
 └── styles/ # Global styles
 
-
+```
 
 ---
 
