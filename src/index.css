@@ -109,3 +109,7 @@ body {
 .delay-500 {
   animation-delay: 500ms;
 }
+
+.herop {
+  margin-top: -3.5rem;
+}
