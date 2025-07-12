@@ -28,5 +28,11 @@ export const projects: ProjectProps[] = [
   image: 'https://www.shutterstock.com/shutterstock/photos/1495857965/display_1500/stock-vector-sign-recognition-concept-icon-traffic-signs-detection-smart-car-on-road-sensor-technologies-for-1495857965.jpg',
   tags: ['CNN', 'Keras', 'TensorFlow', 'Deep Learning', 'Computer Vision'],
   githubLink: 'https://github.com/Muhammad-Adil-code/Traffic-Signs-Recognition-using-CNN-Keras',
+},{
+  title: 'AI Job Portal',
+  description: 'Built AI-Powered Job Portal using MERN Stack with ML-based job placement prediction.Integrated Flask ML model for real-time job outcome predictions',
+  image: 'https://www.astuteconnect.com/uploads/posts/image%202%20(1).jpg',
+  tags: ['React', 'NodeJS', 'Express.js', 'redux', 'Tailwind CSS', 'python', 'ML model', 'Cloudinary', 'MongoDB', 'Flask' ],
+  githubLink: 'https://github.com/Muhammad-Adil-code/Ai-job-portal-fyp',
 },
 ];
