@@ -35,4 +35,12 @@ export const projects: ProjectProps[] = [
   tags: ['React', 'NodeJS', 'Express.js', 'redux', 'Tailwind CSS', 'python', 'ML model', 'Cloudinary', 'MongoDB', 'Flask' ],
   githubLink: 'https://github.com/Muhammad-Adil-code/Ai-job-portal-fyp',
 },
+  {
+  title: 'Powerdigital website',
+  description: 'PowerDigital website clone built using TypeScript, Next.js, Tailwind CSS, and GSAP. Features responsive design and smooth animations, demonstrating strong front-end skills in modern frameworks and animation libraries. A polished, user-friendly marketing site replica with dynamic visual effects.',
+  image: 'https://freeimage.host/i/KZwg76l',
+  tags: ['Nextjs', 'Typescript', 'Gsap', 'Tailwind CSS', ],
+  githubLink: 'https://github.com/Muhammad-Adil-code/powerdigital',
+    liveLink:'https://powerdigital-eight.vercel.app/',
+},
 ];
