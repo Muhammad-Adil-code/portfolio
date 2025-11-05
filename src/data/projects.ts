@@ -38,7 +38,7 @@ export const projects: ProjectProps[] = [
   {
   title: 'Powerdigital website',
   description: 'PowerDigital website clone built using TypeScript, Next.js, Tailwind CSS, and GSAP. Features responsive design and smooth animations, demonstrating strong front-end skills in modern frameworks and animation libraries. A polished, user-friendly marketing site replica with dynamic visual effects.',
-  image: 'https://freeimage.host/i/KZwg76l',
+  image: 'https://i.imghippo.com/files/Cyl9640Veg.png',
   tags: ['Nextjs', 'Typescript', 'Gsap', 'Tailwind CSS', ],
   githubLink: 'https://github.com/Muhammad-Adil-code/powerdigital',
     liveLink:'https://powerdigital-eight.vercel.app/',
